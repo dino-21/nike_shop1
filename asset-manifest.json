@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dino-21/nike_shop1/static/css/main.b3d7e03e.css",
+    "main.js": "/dino-21/nike_shop1/static/js/main.ee9c9dd0.js",
+    "static/js/787.61a433ad.chunk.js": "/dino-21/nike_shop1/static/js/787.61a433ad.chunk.js",
+    "static/media/bg.jpg": "/dino-21/nike_shop1/static/media/bg.ad7977f79c7989b6b5f8.jpg",
+    "index.html": "/dino-21/nike_shop1/index.html",
+    "main.b3d7e03e.css.map": "/dino-21/nike_shop1/static/css/main.b3d7e03e.css.map",
+    "main.ee9c9dd0.js.map": "/dino-21/nike_shop1/static/js/main.ee9c9dd0.js.map",
+    "787.61a433ad.chunk.js.map": "/dino-21/nike_shop1/static/js/787.61a433ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3d7e03e.css",
+    "static/js/main.ee9c9dd0.js"
+  ]
+}
